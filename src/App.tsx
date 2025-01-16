@@ -4,7 +4,7 @@ function App() {
   // Sample data for chips
   const chips = [
     "React", "TypeScript", "JavaScript", "Node.js", "Python", "Java", "Go", 
-    "Rubysss", "PHP", "C++", "Rust", "Swift", "Kotlin", "Dart", "SQL",
+    "asd","asd","zxczxc","werwerew","Rubysss", "PHP", "C++", "Rust", "Swift", "Kotlin", "Dart", "SQL",
     "Ruby", "PHP", "C++", "Rust", "Swift", "Kotlin", "Dart", "SQL",
     "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure", "GCP"
   ];
